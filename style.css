@@ -1,0 +1,71 @@
+.top-container {
+  display: block;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: #ddca1e75;
+}
+
+.heading {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+  color: #432e54;
+}
+
+.para {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #432e54;
+  font-weight: bolder;
+}
+
+.middle-container {
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  background-color: whitesmoke;
+  text-align: center;
+
+}
+
+.profile-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 1px solid rgb(239, 146, 146);
+  background-color: rgb(228, 234, 241);
+}
+
+
+.container-1{
+  background-color: whitesmoke;
+  padding-top: 20px;
+}
+
+.image{
+  width: 300px;
+}
+
+.bottom-container{
+  display: block;
+  background-color: #ddca1e75;
+  padding: 20px;
+}
+
+ul{
+  border-bottom: 2px dotted black;
+}
+
+.karan{
+  text-align: center;
+  margin: 10px;
+}
+
+.container-2{
+margin: 40px;
+padding: 40px;
+}
+
+.list{
+  padding: 10px;
+  display: flex;
+}
